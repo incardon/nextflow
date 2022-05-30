@@ -1,0 +1,1 @@
+nextflow run upload.nf  --input_dir /nvme/dowling_degos_sheetal/output/ -qs 1 --address https://varfish-internal --token c5c92e3163a1b8f96c9ebf05de87981186515850b6cb0538cc7b304d540d296e --project_id dc6fd8c4-26ea-472e-84ce-6aaed4306dd3

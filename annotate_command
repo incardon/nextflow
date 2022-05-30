@@ -1,0 +1,1 @@
+nextflow run annotate.nf --input_dir /nvme/dowling_degos_sheetal/output/ -qs 1
